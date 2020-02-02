@@ -1,0 +1,24 @@
+Basic Measurements
+------------------
+> Detecting cars
+	--> handled by our cNN model(s) 
+	--> will have to test a model on one camera angle and then test that same model on a different angle
+		-> if it sucks(bad accuracy) then we have to have different model for each angle
+	--> Have a predefined threshold for when model won't detect a car? When it's way far away. 
+	
+> Traffic Density 
+	--> Count the number of boxes on screen (find software to do this)
+	--> will be a %, based on the maximum number of boxes/cars that can be on the screen at one time, based on angle 
+	--> Have to consider situations where there are many cars right next to each other in high traffic.
+		-> can our model pick out separate cars if it looks like they're stacked on top each other?
+	--> Might be better to count boxes than to measure distances between cars. 
+		-> However, lots of overlap of cars makes either method more difficult
+> Time of day 
+	--> Determine whether this is the morning commute, lunch break, rush hour, etc. 
+	--> picture file should have timestamp of when the footage was taken. 
+
+
+Advanced(opt.) Measurements
+---------------------------
+> Differentiation between cars & trucks
+> Weather detection	 
