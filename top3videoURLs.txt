@@ -1,0 +1,23 @@
+﻿TOP 3 Camera URLs for Project
+
+
+1st Choice Camera, good angle, i-40 East of West Hills Exit
+
+
+{"id":"1564","dataItemType":1,"thumbnailUrl":"https://tnsnapshots.com/thumbs/R1_011.flv.png","httpVideoUrl":"http://mcleansfs1.tdotstreaming.com:1935/rtplive/R1_011/playlist.m3u8","httpsVideoUrl":"https://mcleansfs1.tdotstreaming.com:443/rtplive/R1_011/playlist.m3u8","rtmpVideoUrl":"rtmp://mcleansfs1.tdotstreaming.com:1935/rtplive/R1_011","rtspVideoUrl":"rtsp://mcleansfs1.tdotstreaming.com:554/rtplive/R1_011","title":"I-40/75 @ East of West Hills","active":"True","jurisdiction":"Knoxville","route":"I-40","mileMarker":"381.7","region":1,"coordinates":{"lat":35.932222,"lng":-84.025278}}},{"action":1,"dataItem":
+
+
+
+
+2nd Choice , long shot of roadway i- 40 near Cedar Bluff
+
+
+{"id":"2253","dataItemType":1,"thumbnailUrl":"https://tnsnapshots.com/thumbs/R1_006.flv.png","httpVideoUrl":"http://mcleansfs5.tdotstreaming.com:1935/rtplive/R1_006/playlist.m3u8","httpsVideoUrl":"https://mcleansfs5.tdotstreaming.com:443/rtplive/R1_006/playlist.m3u8","rtmpVideoUrl":"rtmp://mcleansfs5.tdotstreaming.com:1935/rtplive/R1_006","rtspVideoUrl":"rtsp://mcleansfs5.tdotstreaming.com:554/rtplive/R1_006","title":"I-40/75 @ Cedar Bluff Rd","active":"True","jurisdiction":"Knoxville","route":"I-40","mileMarker":"377.9","region":1,"coordinates":{"lat":35.918056,"lng":-84.090278}}},{"action":1,"dataItem":
+
+
+
+
+3rd choice, i- 40 near Middlebook
+
+
+{"id":"1570","dataItemType":1,"thumbnailUrl":"https://tnsnapshots.com/thumbs/R1_017.flv.png","httpVideoUrl":"http://mcleansfs1.tdotstreaming.com:1935/rtplive/R1_017/playlist.m3u8","httpsVideoUrl":"https://mcleansfs1.tdotstreaming.com:443/rtplive/R1_017/playlist.m3u8","rtmpVideoUrl":"rtmp://mcleansfs1.tdotstreaming.com:1935/rtplive/R1_017","rtspVideoUrl":"rtsp://mcleansfs1.tdotstreaming.com:554/rtplive/R1_017","title":"I-40 @ Middlebrook Pk","active":"True","jurisdiction":"Knoxville","route":"I-40","mileMarker":"386.1","region":1,"coordinates":{"lat":35.960833,"lng":-83.955278}}},{"action":1,"dataItem":
